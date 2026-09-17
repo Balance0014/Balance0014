@@ -1,16 +1,31 @@
-## Hi there 👋
+### 你好，我是 Balance Zhao
 
-<!--
-**Balance0014/Balance0014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**做了 13 年增长的连续创业者。现在一个人，用 AI 跑一家公司。**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 做过什么
+
+- **头部在线教育公司**（年营收 80 亿）：一级战略转型项目负责人，带 11 人跨职能团队，7 个月从 0 到 1 跑通，降本 30%
+- **国内最早对标 Clubhouse 的语音社交 App**：上线首日 30 万用户，马斯克发推、彭博报道
+- **Web3 数据产品 COO**：20 万+ 用户，日活 3 万+
+- **AI 数据分析工具市场总监**：4 个月拉来 1000+ 分析师，欧美用户占七成
+- 两次自己创业：营销自动化 SaaS、量化公司
+
+#### 现在在做什么
+
+一个人，用 Claude 和 Codex 管着 **约 30 个 AI**，每天自己找选题、自己写、自己审、自己发、自己盯着有没有出错。
+覆盖需求挖掘、内容生产、市场数据监测几条线。
+
+其中对外的产品：**[GapMine](https://gapmine.com)** —— 从真实的讨论里挖还没人做的需求，每一条都能追到原帖。
+
+#### 一个人管几十个 AI，我踩出来的几条
+
+- **写的和审的必须是两个 AI。** 自己检查自己，天天全过。
+- **「没发现问题」不等于「做成了」。** 要能证明东西真的到了。
+- **只给上限、不给下限，AI 的产出会一路缩水。**
+- **报警必须代表真的有影响**，否则一周后就没人看了。
+
+#### 找我
+
+X：[@balance0014](https://x.com/balance0014) · 产品：[gapmine.com](https://gapmine.com)
