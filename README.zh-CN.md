@@ -6,7 +6,7 @@
 
 [![X](https://img.shields.io/badge/X-@balance0014-000000?style=flat&logo=x&logoColor=white)](https://x.com/balance0014) [![GapMine](https://img.shields.io/badge/Product-gapmine.com-2457F5?style=flat)](https://gapmine.com) ![Actively updated](https://img.shields.io/badge/status-actively%20updated-2EA44F?style=flat)
 
-> 🆕 **最新 · 2026 年 10 月** —— 我正在把一人 AI 公司背后的方法陆续开源，先发 GapMine 的质检流程，和我怎么管 30 多个 agent。[在 X 上关注我](https://x.com/balance0014)，每次发布第一时间知道。
+> 🆕 **最新 · 2026 年 10 月 28 日** —— 刚开源 [**one-person-ai-company**](https://github.com/Balance0014/one-person-ai-company)：我一个人带 30 多个 AI agent 跑公司的那套管理办法，附模板、四个检查工具和一个 agent 技能。下一个：GapMine 的质检流程。[在 X 上关注我](https://x.com/balance0014)，每次发布第一时间知道。
 
 ---
 
@@ -52,7 +52,7 @@
 | 下载还没人做的需求清单，每条都能追到原帖 | [gapmine-market-gaps](https://github.com/Balance0014/gapmine-market-gaps) | ✅ 每周更新 |
 | **一个人管 30 多个 agent** | | |
 | 给 AI 写出来的东西做质检 | GapMine 质检流程 | 🚧 准备中 |
-| 一个人怎么分工、派活、对账，让一群 agent 像团队一样干活 | 一人 AI 公司管理架构 | 🚧 准备中 |
+| 一个人怎么分工、派活、对账，让一群 agent 像团队一样干活 | [one-person-ai-company](https://github.com/Balance0014/one-person-ai-company) | ✅ 新发布 |
 
 [浏览全部仓库 ↗](https://github.com/Balance0014?tab=repositories) · [在 X 上关注更新 ↗](https://x.com/balance0014)
 
