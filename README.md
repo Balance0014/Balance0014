@@ -6,7 +6,7 @@
 
 [![X](https://img.shields.io/badge/X-@balance0014-000000?style=flat&logo=x&logoColor=white)](https://x.com/balance0014) [![GapMine](https://img.shields.io/badge/Product-gapmine.com-2457F5?style=flat)](https://gapmine.com) ![Actively updated](https://img.shields.io/badge/status-actively%20updated-2EA44F?style=flat)
 
-> 🆕 **Latest · Oct 28, 2026** — Just released [**one-person-ai-company**](https://github.com/Balance0014/one-person-ai-company): how I run a company alone with 30+ AI agents, as templates, four checks, and an agent skill. Next up: the QA workflow I use for GapMine. [Follow me on X](https://x.com/balance0014) to catch each release.
+> 🆕 **Latest · Oct 28, 2026** — New: [**Post-Quantum Crypto Map**](https://github.com/Balance0014/post-quantum-crypto-map), the data and sources behind my two crypto maps. Also out today: [**one-person-ai-company**](https://github.com/Balance0014/one-person-ai-company). Next up: the QA workflow I use for GapMine. [Follow updates on X](https://x.com/balance0014).
 
 ---
 
@@ -50,6 +50,7 @@ Browse by what you want to do. I use every one of these myself, and new ones lan
 | Make AI pet videos: lock the story and shots before spending generation credits | [ai-pet-short-video-director](https://github.com/Balance0014/ai-pet-short-video-director) | ✅ Ready |
 | **Data** | | |
 | Download a list of unbuilt product ideas, each traced to its source | [gapmine-market-gaps](https://github.com/Balance0014/gapmine-market-gaps) | ✅ Updated weekly |
+| Compare post-quantum crypto projects and check the sources behind the claims | [post-quantum-crypto-map](https://github.com/Balance0014/post-quantum-crypto-map) | ✅ Oct 23 snapshot |
 | **Running 30+ agents solo** | | |
 | Quality-check what your AI writes | GapMine QA workflow | 🚧 Coming soon |
 | Divide work, assign tasks, and reconcile output so agents operate like a team | [one-person-ai-company](https://github.com/Balance0014/one-person-ai-company) | ✅ New |
