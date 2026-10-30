@@ -4,7 +4,7 @@
 
 **市场运营出身，做了 13 年增长。现在一个人，用 AI 跑一家公司。**
 
-抗量子加密货币，我持续关注到了第 6 年。
+我主要的精力在抗量子区块链的研究和投资上，已经持续关注到第 6 年。
 
 [![X](https://img.shields.io/badge/X-@balance0014-000000?style=flat&logo=x&logoColor=white)](https://x.com/balance0014) [![GapMine](https://img.shields.io/badge/Product-gapmine.com-2457F5?style=flat)](https://gapmine.com) ![Actively updated](https://img.shields.io/badge/status-actively%20updated-2EA44F?style=flat)
 
@@ -22,10 +22,10 @@
 
 #### 我擅长什么
 
+- **抗量子区块链**：我现在主要的精力在这里，做研究，也做投资。跟了 6 年，之前在 KingData、GeniiData 做过 Web3 数据产品。我维护着一份公开的资料库，每条都有出处，记录哪些区块链已经用上了抗量子签名。
 - **做增长**：判断什么值得做，再把它推到用户面前。Clubhorse 首日 30 万用户，KingData 做到 20 万+ 用户。
 - **做数据产品**：KingData、GeniiData 都是数据产品；现在我自己做 GapMine。
 - **用 AI 把业务跑起来**：以前做营销自动化 SaaS；现在一个人，带着 30 多个 agent 写文章、做投研、调研产品、维护我自己 vibe coding 的产品。
-- **抗量子加密货币**：关注了 6 年，之前在 KingData、GeniiData 做过 Web3 数据产品。我维护着一份公开的资料库，每条都有出处，记录哪些区块链已经用上了抗量子签名。
 
 ---
 

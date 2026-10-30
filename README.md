@@ -4,7 +4,7 @@
 
 **Growth marketer turned builder. 13 years in growth. Now I run a one-person company with AI.**
 
-I've followed post-quantum crypto for six years.
+Most of my time goes to researching and investing in post-quantum blockchains, which I've followed for six years.
 
 [![X](https://img.shields.io/badge/X-@balance0014-000000?style=flat&logo=x&logoColor=white)](https://x.com/balance0014) [![GapMine](https://img.shields.io/badge/Product-gapmine.com-2457F5?style=flat)](https://gapmine.com) ![Actively updated](https://img.shields.io/badge/status-actively%20updated-2EA44F?style=flat)
 
@@ -22,10 +22,10 @@ I've followed post-quantum crypto for six years.
 
 #### What I'm good at
 
+- **Post-quantum blockchains**: Where most of my time goes now, as a researcher and investor. I've followed the space for six years, after running Web3 data products at KingData and GeniiData. I keep an open, sourced map of which blockchains actually use post-quantum signatures.
 - **Growth**: Deciding what's worth building, then putting it in front of users. Clubhorse hit 300K users on day one; KingData grew past 200K.
 - **Data products**: KingData and GeniiData were both data products. Now I'm building GapMine on my own.
 - **Running a business on AI**: I used to build marketing-automation SaaS. Now, as a team of one, I run 30+ agents that write articles, do investment research, research products, and maintain the products I vibe-code.
-- **Post-quantum crypto**: I've followed it for six years, after running Web3 data products at KingData and GeniiData. I keep an open, sourced map of which blockchains actually use post-quantum signatures.
 
 ---
 
