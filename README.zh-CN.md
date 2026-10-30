@@ -8,7 +8,7 @@
 
 [![X](https://img.shields.io/badge/X-@balance0014-000000?style=flat&logo=x&logoColor=white)](https://x.com/balance0014) [![GapMine](https://img.shields.io/badge/Product-gapmine.com-2457F5?style=flat)](https://gapmine.com) ![Actively updated](https://img.shields.io/badge/status-actively%20updated-2EA44F?style=flat)
 
-> 🆕 **2026 年 10 月 28 日：** 新发布 [claim-check](https://github.com/Balance0014/claim-check）（AI 说「修好了」之前必须拿出证据）和 [when-to-clear](https://github.com/Balance0014/when-to-clear)（看清 Claude Code 的用量有多少花在重读长对话上）。同日公开的还有 [抗量子加密货币图谱](https://github.com/Balance0014/post-quantum-crypto-map) 和 [一人 AI 公司手册](https://github.com/Balance0014/one-person-ai-company)。下一个是 GapMine 的质检流程。[在 X 上关注](https://x.com/balance0014)。
+> 🆕 **2026 年 10 月 28 日：** 新发布 [claim-check](https://github.com/Balance0014/claim-check)（AI 说「修好了」之前必须拿出证据）和 [when-to-clear](https://github.com/Balance0014/when-to-clear)（看清 Claude Code 的用量有多少花在重读长对话上）。同日公开的还有 [抗量子加密货币图谱](https://github.com/Balance0014/post-quantum-crypto-map) 和 [一人 AI 公司手册](https://github.com/Balance0014/one-person-ai-company)。下一个是 GapMine 的质检流程。[在 X 上关注](https://x.com/balance0014)。
 
 ---
 
