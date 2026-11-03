@@ -6,7 +6,7 @@ Post-quantum blockchain research and investing · 13 years in growth · a one-pe
 
 Most of my time goes to researching and investing in post-quantum blockchains. I've followed the space for six years. On the side, I run a one-person company with about 30 AI agents and build GapMine, a data product that finds products people are asking for but nobody has built yet.
 
-**Latest, Nov 3, 2026:** Bitcoin migration joins the post-quantum research, with paired English and Chinese diagrams.
+**Latest, Nov 3, 2026:** Bitcoin migration joins the post-quantum research, with the original English and Chinese diagrams.
 
 ---
 
