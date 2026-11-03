@@ -6,7 +6,7 @@ Post-quantum blockchain research and investing · 13 years in growth · a one-pe
 
 Most of my time goes to researching and investing in post-quantum blockchains. I've followed the space for six years. On the side, I run a one-person company with about 30 AI agents and build GapMine, a data product that finds products people are asking for but nobody has built yet.
 
-**Latest, Oct 28, 2026:** four new open-source projects, listed below.
+**Latest, Nov 3, 2026:** Bitcoin migration joins the post-quantum research, with paired English and Chinese diagrams.
 
 ---
 
@@ -14,7 +14,8 @@ Most of my time goes to researching and investing in post-quantum blockchains. I
 
 **Post-quantum crypto**
 
-- [post-quantum-crypto-map](https://github.com/Balance0014/post-quantum-crypto-map): which blockchains actually use post-quantum signatures, and where. 17 projects, every claim sourced.
+- [Post-Quantum Crypto Research](https://github.com/Balance0014/post-quantum-crypto-map): project deployments, algorithm comparisons and Bitcoin migration.
+- [Bitcoin migration and the coins left behind](https://github.com/Balance0014/post-quantum-crypto-map/tree/main/research/bitcoin-migration/r8-bruter): r8's BRUTER framework, holder rights and a historical capacity calculation, with English and Chinese diagrams.
 
 **Running AI agents**
 

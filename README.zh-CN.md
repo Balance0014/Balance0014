@@ -6,7 +6,7 @@
 
 我主要的精力在抗量子区块链的研究和投资上，已经跟了 6 年。另外，我一个人带着 30 多个 AI agent 跑一家小公司，做了 GapMine 这个数据产品：从真实讨论里找出大家在要、但还没人做的产品。
 
-**最近更新（2026 年 10 月 28 日）**：新开源 4 个项目，见下方。
+**最近更新（2026 年 11 月 3 日）**：抗量子研究加入比特币迁移专题，附内容对应的中英文图解。
 
 ---
 
@@ -14,7 +14,8 @@
 
 **抗量子加密货币**
 
-- [post-quantum-crypto-map](https://github.com/Balance0014/post-quantum-crypto-map)：哪些区块链真的用上了抗量子签名，用在哪一层。17 个项目，每条都有出处。
+- [抗量子加密研究](https://github.com/Balance0014/post-quantum-crypto-map)：项目部署、算法对比与比特币迁移。
+- [比特币迁移与未迁移资金](https://github.com/Balance0014/post-quantum-crypto-map/blob/main/research/bitcoin-migration/r8-bruter/README.zh-CN.md)：r8 的 BRUTER 框架、持有人权益与历史容量算例，附中英文图解。
 
 **管好 AI agent**
 
