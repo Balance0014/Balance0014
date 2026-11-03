@@ -15,7 +15,7 @@
 **抗量子加密货币**
 
 - [抗量子加密研究](https://github.com/Balance0014/post-quantum-crypto-map)：项目部署、算法对比与比特币迁移。
-- [比特币迁移与未迁移资金](https://github.com/Balance0014/post-quantum-crypto-map/blob/main/research/bitcoin-migration/r8-bruter/README.zh-CN.md)：r8 的 BRUTER 框架、持有人权益与历史容量算例，附中英文图解。
+  - [比特币迁移与未迁移资金](https://github.com/Balance0014/post-quantum-crypto-map/blob/main/research/bitcoin-migration/r8-bruter/README.zh-CN.md)：r8 的 BRUTER 框架、持有人权益与历史容量算例，附中英文图解。
 
 **管好 AI agent**
 

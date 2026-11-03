@@ -15,7 +15,7 @@ Most of my time goes to researching and investing in post-quantum blockchains. I
 **Post-quantum crypto**
 
 - [Post-Quantum Crypto Research](https://github.com/Balance0014/post-quantum-crypto-map): project deployments, algorithm comparisons and Bitcoin migration.
-- [Bitcoin migration and the coins left behind](https://github.com/Balance0014/post-quantum-crypto-map/tree/main/research/bitcoin-migration/r8-bruter): r8's BRUTER framework, holder rights and a historical capacity calculation, with English and Chinese diagrams.
+  - [Bitcoin migration and the coins left behind](https://github.com/Balance0014/post-quantum-crypto-map/tree/main/research/bitcoin-migration/r8-bruter): r8's BRUTER framework, holder rights and a historical capacity calculation, with English and Chinese diagrams.
 
 **Running AI agents**
 
