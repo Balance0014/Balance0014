@@ -6,33 +6,40 @@
 
 我主要的精力在抗量子区块链的研究和投资上，已经跟了 6 年。另外，我一个人带着 30 多个 AI agent 跑一家小公司，做了 GapMine 这个数据产品：从真实讨论里找出大家在要、但还没人做的产品。
 
-**最近更新（2026 年 11 月 3 日）**：抗量子研究加入比特币迁移专题，附原版中英文图解。
+**最近更新（2026 年 11 月 4 日）**：开源两个工具。[telegram-rug-checker](https://github.com/Balance0014/telegram-rug-checker) 买币前查合约、买后盯流动性；[reddit-lead-finder](https://github.com/Balance0014/reddit-lead-finder) 在 Reddit 上找出正被你能解决的问题卡住的人。
+
+**2026 年 11 月 3 日**：抗量子研究加入比特币迁移专题，附原版中英文图解。
 
 ---
 
 #### 开源项目
 
-**抗量子加密货币**
+**加密货币**
 
-- [抗量子加密研究](https://github.com/Balance0014/post-quantum-blockchains)：项目部署、算法对比与比特币迁移。
+- [抗量子区块链研究](https://github.com/Balance0014/post-quantum-blockchains)：项目部署、算法对比与比特币迁移。
   - [比特币迁移与未迁移资金](https://github.com/Balance0014/post-quantum-blockchains/blob/main/research/bitcoin-migration/r8-bruter/README.zh-CN.md)：r8 的 BRUTER 框架、持有人权益与历史容量算例，附中英文图解。
+- [telegram-rug-checker](https://github.com/Balance0014/telegram-rug-checker/blob/main/README.zh-CN.md)：Telegram 机器人。买币前查合约（貔貅、税、项目方权限、流动性锁），买后盯流动性。跑在 Cloudflare Workers 上，数据源全免费。
 
 **管好 AI agent**
 
 - [claim-check](https://github.com/Balance0014/claude-code-claim-check)：Claude Code 钩子。AI 说「修好了」之前，必须先拿出证据。
-- [when-to-clear](https://github.com/Balance0014/claude-code-when-to-clear)：看清 Claude Code 的用量有多少花在重读长对话上，以及什么时候该 /clear。
 - [one-person-ai-company](https://github.com/Balance0014/one-person-ai-company)：我一个人怎么用 AI agent 跑公司。8 条经验、模板和四个检查脚本。
+- [when-to-clear](https://github.com/Balance0014/claude-code-when-to-clear)：看清 Claude Code 的用量有多少花在重读长对话上，以及什么时候该 /clear。
 
-**内容与视频**
+**找用户**
 
-- [github-to-x-posts](https://github.com/Balance0014/github-to-x-posts)：挑出值得分享的 GitHub 项目，写成中文 X 帖。
-- [video-translation-x-post](https://github.com/Balance0014/video-translation-x-post)：把英文视频译成中文，配双语字幕和帖文。
-- [source-to-motion](https://github.com/Balance0014/source-to-explainer-video)：把项目链接或文档做成动画讲解短片。
-- [ai-pet-short-video-director](https://github.com/Balance0014/ai-pet-short-video-director)：做 AI 萌宠短视频，先把每个镜头想清楚，再花生成额度。
+- [reddit-lead-finder](https://github.com/Balance0014/reddit-lead-finder/blob/main/README.zh-CN.md)：Chrome 扩展。在 Reddit 上找出正被你能解决的问题卡住的人，写好回复草稿，你自己发。
 
 **数据**
 
 - [gapmine-market-gaps](https://github.com/Balance0014/gapmine-market-gaps)：开放数据集，收录大家在要、但还没人做的产品需求。每周更新。
+
+**内容与视频**
+
+- [source-to-explainer-video](https://github.com/Balance0014/source-to-explainer-video)：把项目链接或文档做成动画讲解短片。
+- [ai-pet-short-video-director](https://github.com/Balance0014/ai-pet-short-video-director)：做 AI 萌宠短视频，先把每个镜头想清楚，再花生成额度。
+- [github-to-x-posts](https://github.com/Balance0014/github-to-x-posts)：挑出值得分享的 GitHub 项目，写成中文 X 帖。
+- [video-translation-x-post](https://github.com/Balance0014/video-translation-x-post)：把英文视频译成中文，配双语字幕和帖文。
 
 ---
 

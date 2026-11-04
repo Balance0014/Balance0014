@@ -6,33 +6,40 @@ Post-quantum blockchain research and investing · 13 years in growth · a one-pe
 
 Most of my time goes to researching and investing in post-quantum blockchains. I've followed the space for six years. On the side, I run a one-person company with about 30 AI agents and build GapMine, a data product that finds products people are asking for but nobody has built yet.
 
-**Latest, Nov 3, 2026:** Bitcoin migration joins the post-quantum research, with the original English and Chinese diagrams.
+**Latest, Nov 4, 2026:** two tools are now open source. [telegram-rug-checker](https://github.com/Balance0014/telegram-rug-checker) checks a token before you buy and watches its liquidity after; [reddit-lead-finder](https://github.com/Balance0014/reddit-lead-finder) finds Reddit posts from people stuck on the problem your product solves.
+
+**Nov 3, 2026:** Bitcoin migration joins the post-quantum research, with the original English and Chinese diagrams.
 
 ---
 
 #### Open source
 
-**Post-quantum crypto**
+**Crypto**
 
-- [Post-Quantum Crypto Research](https://github.com/Balance0014/post-quantum-blockchains): project deployments, algorithm comparisons and Bitcoin migration.
+- [Post-Quantum Blockchains](https://github.com/Balance0014/post-quantum-blockchains): project deployments, algorithm comparisons and Bitcoin migration.
   - [Bitcoin migration and the coins left behind](https://github.com/Balance0014/post-quantum-blockchains/tree/main/research/bitcoin-migration/r8-bruter): r8's BRUTER framework, holder rights and a historical capacity calculation, with English and Chinese diagrams.
+- [telegram-rug-checker](https://github.com/Balance0014/telegram-rug-checker): a Telegram bot that checks a token before you buy (honeypot, taxes, owner powers, liquidity lock) and watches its liquidity after. Runs on Cloudflare Workers with free data sources.
 
 **Running AI agents**
 
 - [claim-check](https://github.com/Balance0014/claude-code-claim-check): a Claude Code hook. Your coding agent can't say "fixed" until it shows the proof.
-- [when-to-clear](https://github.com/Balance0014/claude-code-when-to-clear): how much of your Claude Code usage goes to re-reading long conversations, and when to /clear.
 - [one-person-ai-company](https://github.com/Balance0014/one-person-ai-company): how I run a one-person company on AI agents. Eight lessons, templates and four checks.
+- [when-to-clear](https://github.com/Balance0014/claude-code-when-to-clear): how much of your Claude Code usage goes to re-reading long conversations, and when to /clear.
 
-**Content and video**
+**Finding users**
 
-- [github-to-x-posts](https://github.com/Balance0014/github-to-x-posts): find GitHub projects worth sharing and turn them into Chinese X posts.
-- [video-translation-x-post](https://github.com/Balance0014/video-translation-x-post): translate English videos into Chinese, with bilingual subtitles and post copy.
-- [source-to-motion](https://github.com/Balance0014/source-to-explainer-video): turn a project link or document into a short motion explainer.
-- [ai-pet-short-video-director](https://github.com/Balance0014/ai-pet-short-video-director): plan AI pet videos shot by shot before you spend generation credits.
+- [reddit-lead-finder](https://github.com/Balance0014/reddit-lead-finder): a Chrome extension that finds Reddit posts from people stuck on the problem your product solves, and drafts replies you post yourself.
 
 **Data**
 
 - [gapmine-market-gaps](https://github.com/Balance0014/gapmine-market-gaps): an open dataset of products people are asking for that nobody has built yet. Updated weekly.
+
+**Content and video**
+
+- [source-to-explainer-video](https://github.com/Balance0014/source-to-explainer-video): turn a project link or document into a short motion explainer.
+- [ai-pet-short-video-director](https://github.com/Balance0014/ai-pet-short-video-director): plan AI pet videos shot by shot before you spend generation credits.
+- [github-to-x-posts](https://github.com/Balance0014/github-to-x-posts): find GitHub projects worth sharing and turn them into Chinese X posts.
+- [video-translation-x-post](https://github.com/Balance0014/video-translation-x-post): translate English videos into Chinese, with bilingual subtitles and post copy.
 
 ---
 
