@@ -14,20 +14,20 @@ Most of my time goes to researching and investing in post-quantum blockchains. I
 
 **Post-quantum crypto**
 
-- [Post-Quantum Crypto Research](https://github.com/Balance0014/post-quantum-crypto-map): project deployments, algorithm comparisons and Bitcoin migration.
-  - [Bitcoin migration and the coins left behind](https://github.com/Balance0014/post-quantum-crypto-map/tree/main/research/bitcoin-migration/r8-bruter): r8's BRUTER framework, holder rights and a historical capacity calculation, with English and Chinese diagrams.
+- [Post-Quantum Crypto Research](https://github.com/Balance0014/post-quantum-blockchains): project deployments, algorithm comparisons and Bitcoin migration.
+  - [Bitcoin migration and the coins left behind](https://github.com/Balance0014/post-quantum-blockchains/tree/main/research/bitcoin-migration/r8-bruter): r8's BRUTER framework, holder rights and a historical capacity calculation, with English and Chinese diagrams.
 
 **Running AI agents**
 
-- [claim-check](https://github.com/Balance0014/claim-check): a Claude Code hook. Your coding agent can't say "fixed" until it shows the proof.
-- [when-to-clear](https://github.com/Balance0014/when-to-clear): how much of your Claude Code usage goes to re-reading long conversations, and when to /clear.
+- [claim-check](https://github.com/Balance0014/claude-code-claim-check): a Claude Code hook. Your coding agent can't say "fixed" until it shows the proof.
+- [when-to-clear](https://github.com/Balance0014/claude-code-when-to-clear): how much of your Claude Code usage goes to re-reading long conversations, and when to /clear.
 - [one-person-ai-company](https://github.com/Balance0014/one-person-ai-company): how I run a one-person company on AI agents. Eight lessons, templates and four checks.
 
 **Content and video**
 
 - [github-to-x-posts](https://github.com/Balance0014/github-to-x-posts): find GitHub projects worth sharing and turn them into Chinese X posts.
 - [video-translation-x-post](https://github.com/Balance0014/video-translation-x-post): translate English videos into Chinese, with bilingual subtitles and post copy.
-- [source-to-motion](https://github.com/Balance0014/source-to-motion): turn a project link or document into a short motion explainer.
+- [source-to-motion](https://github.com/Balance0014/source-to-explainer-video): turn a project link or document into a short motion explainer.
 - [ai-pet-short-video-director](https://github.com/Balance0014/ai-pet-short-video-director): plan AI pet videos shot by shot before you spend generation credits.
 
 **Data**

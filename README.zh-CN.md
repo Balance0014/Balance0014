@@ -14,20 +14,20 @@
 
 **抗量子加密货币**
 
-- [抗量子加密研究](https://github.com/Balance0014/post-quantum-crypto-map)：项目部署、算法对比与比特币迁移。
-  - [比特币迁移与未迁移资金](https://github.com/Balance0014/post-quantum-crypto-map/blob/main/research/bitcoin-migration/r8-bruter/README.zh-CN.md)：r8 的 BRUTER 框架、持有人权益与历史容量算例，附中英文图解。
+- [抗量子加密研究](https://github.com/Balance0014/post-quantum-blockchains)：项目部署、算法对比与比特币迁移。
+  - [比特币迁移与未迁移资金](https://github.com/Balance0014/post-quantum-blockchains/blob/main/research/bitcoin-migration/r8-bruter/README.zh-CN.md)：r8 的 BRUTER 框架、持有人权益与历史容量算例，附中英文图解。
 
 **管好 AI agent**
 
-- [claim-check](https://github.com/Balance0014/claim-check)：Claude Code 钩子。AI 说「修好了」之前，必须先拿出证据。
-- [when-to-clear](https://github.com/Balance0014/when-to-clear)：看清 Claude Code 的用量有多少花在重读长对话上，以及什么时候该 /clear。
+- [claim-check](https://github.com/Balance0014/claude-code-claim-check)：Claude Code 钩子。AI 说「修好了」之前，必须先拿出证据。
+- [when-to-clear](https://github.com/Balance0014/claude-code-when-to-clear)：看清 Claude Code 的用量有多少花在重读长对话上，以及什么时候该 /clear。
 - [one-person-ai-company](https://github.com/Balance0014/one-person-ai-company)：我一个人怎么用 AI agent 跑公司。8 条经验、模板和四个检查脚本。
 
 **内容与视频**
 
 - [github-to-x-posts](https://github.com/Balance0014/github-to-x-posts)：挑出值得分享的 GitHub 项目，写成中文 X 帖。
 - [video-translation-x-post](https://github.com/Balance0014/video-translation-x-post)：把英文视频译成中文，配双语字幕和帖文。
-- [source-to-motion](https://github.com/Balance0014/source-to-motion)：把项目链接或文档做成动画讲解短片。
+- [source-to-motion](https://github.com/Balance0014/source-to-explainer-video)：把项目链接或文档做成动画讲解短片。
 - [ai-pet-short-video-director](https://github.com/Balance0014/ai-pet-short-video-director)：做 AI 萌宠短视频，先把每个镜头想清楚，再花生成额度。
 
 **数据**
