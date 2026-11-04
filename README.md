@@ -32,7 +32,7 @@ Most of my time goes to researching and investing in post-quantum blockchains. I
 
 **Data**
 
-- [gapmine-market-gaps](https://github.com/Balance0014/gapmine-market-gaps): an open dataset of products people are asking for that nobody has built yet. Updated weekly.
+- [gapmine-startup-ideas](https://github.com/Balance0014/gapmine-startup-ideas): an open dataset of products people are asking for that nobody has built yet. Updated weekly.
 
 **Content and video**
 

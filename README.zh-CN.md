@@ -32,7 +32,7 @@
 
 **数据**
 
-- [gapmine-market-gaps](https://github.com/Balance0014/gapmine-market-gaps)：开放数据集，收录大家在要、但还没人做的产品需求。每周更新。
+- [gapmine-startup-ideas](https://github.com/Balance0014/gapmine-startup-ideas)：开放数据集，收录大家在要、但还没人做的产品需求。每周更新。
 
 **内容与视频**
 
