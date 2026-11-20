@@ -1,10 +1,10 @@
 ### Balance Zhao
 
-抗量子区块链研究与投资 · 13 年增长 · 一个人用 AI 跑一家公司
+AI 与加密内容创作者 · 13 年增长经验 · 抗量子研究与投资 · Vibe Coder
 
-[X @balance0014](https://x.com/balance0014) · [gapmine.com](https://gapmine.com) · [English](README.md)
+[X @balance0014](https://x.com/balance0014) · [English](README.md)
 
-我主要的精力在抗量子区块链的研究和投资上，已经跟了 6 年。另外，我一个人带着 30 多个 AI agent 跑一家小公司，做了 GapMine 这个数据产品：从真实讨论里找出大家在要、但还没人做的产品。
+我现在主要在 X（@balance0014）做 AI 和加密相关的内容创作，同时继续研究和投资抗量子区块链，从 2020 年开始关注这个方向。我也用 AI 辅助研究、创作和开发，把实际需求做成工具，在这里开源分享。
 
 **最近更新（2026 年 11 月 4 日）**：开源两个工具。[telegram-rug-checker](https://github.com/Balance0014/telegram-rug-checker) 买币前查合约、买后盯流动性；[reddit-lead-finder](https://github.com/Balance0014/reddit-lead-finder) 在 Reddit 上找出正被你能解决的问题卡住的人。
 
@@ -32,7 +32,7 @@
 
 **数据**
 
-- [gapmine-startup-ideas](https://github.com/Balance0014/gapmine-startup-ideas)：开放数据集，收录大家在要、但还没人做的产品需求。每周更新。
+- [gapmine-startup-ideas](https://github.com/Balance0014/gapmine-startup-ideas)：开放数据集，收录大家在要、但还没人做的产品需求。
 
 **内容与视频**
 
@@ -45,7 +45,7 @@
 
 #### GapMine
 
-[GapMine](https://gapmine.com) 是我第一次自己独立做的大数据产品：从 Reddit、Hacker News、Product Hunt、GitHub 上真实的讨论里，挖出还没人做的需求，每一条都能追到原帖。这是业余爱好，但我会一直做下去。
+GapMine 是我独立开发的一款数据产品，尝试从真实社区讨论里发现尚未被满足的需求。项目因产品方向验证未通过，现已停止，不再继续开发。
 
 ---
 
@@ -59,7 +59,7 @@
 
 #### 我擅长什么
 
-- **抗量子区块链**：我现在主要的精力在这里，做研究，也做投资。跟了 6 年，之前在 KingData、GeniiData 做过 Web3 数据产品。我维护着一份公开的资料库，每条都有出处，记录哪些区块链已经用上了抗量子签名。
+- **抗量子区块链**：长期研究与投资，从 2020 年开始。之前在 KingData、GeniiData 做过 Web3 数据产品。我维护着一份公开、有出处的研究资料库，记录哪些区块链已经用上了抗量子签名。
 - **做增长**：判断什么值得做，再把它推到用户面前。Clubhorse 首日 30 万用户，KingData 做到 20 万+ 用户。
-- **做数据产品**：KingData、GeniiData 都是数据产品；现在我自己做 GapMine。
-- **用 AI 把业务跑起来**：以前做营销自动化 SaaS；现在一个人，带着 30 多个 agent 做投研、调研产品、维护我自己 vibe coding 的产品。
+- **做数据产品**：KingData、GeniiData 都是数据产品；我也曾独立开发 GapMine。
+- **用 AI 把业务跑起来**：以前做营销自动化 SaaS；现在用 AI 辅助内容研究、创作和工具开发。
