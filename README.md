@@ -32,7 +32,7 @@ I create content about AI and crypto on X (@balance0014), while continuing to re
 
 **Data**
 
-- [gapmine-startup-ideas](https://github.com/Balance0014/gapmine-startup-ideas): an open dataset of products people are asking for that nobody has built yet..
+- [gapmine-startup-ideas](https://github.com/Balance0014/gapmine-startup-ideas): an open dataset of products people are asking for that nobody has built yet.
 
 **Content and video**
 
