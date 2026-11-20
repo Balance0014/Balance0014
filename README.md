@@ -1,10 +1,10 @@
 ### Balance Zhao
 
-Post-quantum blockchain research and investing · 13 years in growth · a one-person company run on AI
+AI & crypto content creator · 13 years in growth · Post-quantum research & investing · Vibe Coder
 
-[X @balance0014](https://x.com/balance0014) · [gapmine.com](https://gapmine.com) · [中文](README.zh-CN.md)
+[X @balance0014](https://x.com/balance0014) · [中文](README.zh-CN.md)
 
-Most of my time goes to researching and investing in post-quantum blockchains. I've followed the space for six years. On the side, I run a one-person company with about 30 AI agents and build GapMine, a data product that finds products people are asking for but nobody has built yet.
+I create content about AI and crypto on X (@balance0014), while continuing to research and invest in post-quantum blockchains, a field I've followed since 2020. I also use AI to support research, content creation, and development, turning practical needs into tools that I open source here.
 
 **Latest, Nov 4, 2026:** two tools are now open source. [telegram-rug-checker](https://github.com/Balance0014/telegram-rug-checker) checks a token before you buy and watches its liquidity after; [reddit-lead-finder](https://github.com/Balance0014/reddit-lead-finder) finds Reddit posts from people stuck on the problem your product solves.
 
@@ -32,7 +32,7 @@ Most of my time goes to researching and investing in post-quantum blockchains. I
 
 **Data**
 
-- [gapmine-startup-ideas](https://github.com/Balance0014/gapmine-startup-ideas): an open dataset of products people are asking for that nobody has built yet. Updated weekly.
+- [gapmine-startup-ideas](https://github.com/Balance0014/gapmine-startup-ideas): an open dataset of products people are asking for that nobody has built yet..
 
 **Content and video**
 
@@ -45,7 +45,7 @@ Most of my time goes to researching and investing in post-quantum blockchains. I
 
 #### GapMine
 
-[GapMine](https://gapmine.com) is the first big-data product I've built on my own. It digs through real discussions on Reddit, Hacker News, Product Hunt and GitHub to surface needs nobody has built for yet, and every one links back to the original thread. It's a side project, and I'm in it for the long haul.
+GapMine was a data product I built independently, exploring unmet needs in real community discussions. The product direction did not validate, so the project is now discontinued and no longer in development.
 
 ---
 
@@ -59,7 +59,7 @@ Most of my time goes to researching and investing in post-quantum blockchains. I
 
 #### What I'm good at
 
-- **Post-quantum blockchains**: Where most of my time goes now, as a researcher and investor. I've followed the space for six years, after running Web3 data products at KingData and GeniiData. I keep an open, sourced map of which blockchains actually use post-quantum signatures.
+- **Post-quantum blockchains**: Long-term research and investment since 2020, building on my Web3 data product experience at KingData and GeniiData. I maintain a public, sourced research library documenting which blockchains have adopted post-quantum signatures.
 - **Growth**: Deciding what's worth building, then putting it in front of users. Clubhorse hit 300K users on day one; KingData grew past 200K.
-- **Data products**: KingData and GeniiData were both data products. Now I'm building GapMine on my own.
-- **Running a business on AI**: I used to build marketing-automation SaaS. Now, as a team of one, I run 30+ agents that do investment research, research products, and maintain the products I vibe-code.
+- **Data products**: KingData and GeniiData were both data products; I also built GapMine independently.
+- **Running a business on AI**: I previously built marketing-automation SaaS. I now use AI to support content research, creation, and tool development.
